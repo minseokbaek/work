@@ -1,0 +1,26 @@
+$(function(){
+    $("#button").click(function(){
+        $("p").toggle()
+    })
+})
+
+$(function(){
+    $("#patrone_copy").click(function(){
+        $(".aa").toggle()
+    })
+})
+$(function(){
+    $("#parone_ez").click(function(){
+        $(".ab").toggle()
+    })
+})
+$(function(){
+    $("#parone_eye").click(function(){
+        $(".ac").toggle()
+    })
+})
+$(function(){
+    $("#maestro").click(function(){
+        $(".ad").toggle()
+    })
+})
